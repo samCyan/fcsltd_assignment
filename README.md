@@ -6,6 +6,7 @@ https://github.com/samCyan/fcsltd_assignment
 - ```cd fcsltd_assignment```
 - ```virtualenv -p `which python3` venv```
 - ```source venv/bin/activate```
+- ```pip3 install -r requirements.txt```
 - ```python3 app.py```
 - Go to the terminal and try out below curl commands-  
     - get closest investor by location name 
